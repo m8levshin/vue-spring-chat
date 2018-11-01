@@ -1,0 +1,16 @@
+## FRONT
+src/main/front/node_modules/
+src/main/front/node/
+src/main/front/.idea/
+src/main/webapp/
+
+
+## IDEA
+out/
+target/
+*.iml
+.idea/
+
+
+## DB CONFIG
+src/main/front/resources/dbconfig.properties
